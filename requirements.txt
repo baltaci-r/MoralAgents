@@ -1,0 +1,8 @@
+pandas==2.2.3
+tqdm==4.66.5
+langgraph==0.2.68
+langchain-core==0.3.59
+langchain-ollama==0.2.3
+langchain-openai==0.3.16
+matplotlib==3.10.0
+seaborn==0.13.2

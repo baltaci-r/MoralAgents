@@ -1,0 +1,266 @@
+[{
+    "index": 1,
+    "type":"Factual–Killing–Utilitarian",
+    "name": "Conjoined Twins",
+    "scenario" : "A few weeks ago, you and your partner became parents of a pair of conjoined twins. The two girls share some organs; for example, they have only one bladder between them. The weaker infant has reduced brain and heart activity and very little functioning lung tissue; whereas, in the stronger infant, all non–shared organs are normally developed. The physicians tell you that currently the stronger twin’s organs keep the weaker one alive. However, after a few months’ growth, the organs will not be able to handle this double strain anymore. The physicians suggest separating the two girls and giving the shared organs to the stronger girl. If you decide against the operation, according to the physicians, both girls will die soon. If you decide in favor of the operation, the weaker infant will die during the operation, but the stronger one has a very good chance to survive and might have a largely unimpaired life.",
+    "subject": "your"
+},
+{   
+    "index": 2,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Rope ladder",
+    "scenario": "It is 1987 and you are on a ferry from Belgium to England. Suddenly, the ferry starts tilting and water begins to pour in. You and many other passengers are trying to get to the deck by a rope ladder. You are currently halfway up the ladder. Directly above you, a man who seems frozen into immobility by fear or cold is blocking the ladder. You try to speak to him, but he does not react. People behind you are jostling. The ship seems to be sinking fast and the man above you is still blocking the ladder. From the crowd below, someone shouts that you should push the man off. If you push the man off the ladder, he will probably die, but you and the other people will be able to climb on deck. If you do not push the man off the ladder, he will probably continue blocking the way so that many of the people behind you will not be able to get on deck and therefore will drown.",
+    "subject": "your"
+},
+{   
+    "index": 3,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Cannibalism (on Lifeboat)",
+    "scenario": "It is 1884 and you are one of four crew members on a small yacht which you are transferring to Australia. In a severe storm in the Indian Ocean, the yacht sinks. The four of you are able to get into its lifeboat and take navigation instruments and food with you. After a few weeks in the lifeboat, your food and water have been gone for some time and there still is no help. The youngest person, a 17–year old cabin boy, has been so thirsty as to drink sea water, and consequently is weakened and in pain. He hardly reacts anymore when you speak to him. The captain suggests killing the boy and feeding on his body. If you do not kill the boy, all of you will die in the next few days. If you kill the boy, the rest of you will survive for a few weeks longer and could be rescued during this time.",
+    "subject": "your"
+},
+{   
+    "index": 4,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Doodle bugs",
+    "scenario": "You are the British prime minister during World War II when the Germans begin to use long–distance missiles and hit London. Most missiles do not hit the center but instead hit southern quarters where no important military installations are located. Instead, it is a mostly residential district populated by poorer classes. The population density is comparatively low, leading to fewer casualties than if the bombs did hit their mark. The Germans know roughly but not exactly where the bombs are hitting. By spreading wrong information through spies, you could make them believe that their bombs hit rather the north of the center. As a result, they would not improve their aim, leading to most bombs’ reaching even more southern quarters. If you do not spread wrong information, the Germans will probably improve their aim of hitting the city center and hit vital military installations [and kill many more people]. If you spread wrong information, the bombs will probably continue killing many poorer people in the south of London.",
+    "subject": "your"
+},
+{   
+    "index": 5,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Plague spread",
+    "scenario": "In 1665 you are the parish priest in a village with 800 inhabitants in England when there is an outbreak of the plague. After the first deaths, the inhabitants ask you to take charge and make all important decisions for the village. You know that the plague spreads by contagion. Therefore, you consider isolating your village to prevent a spread to nearby villages. However, this will lead to closer contact within the village, increasing the risk of contagion for the people in your charge – among them many children. If you isolate your village, the probability of a general spread of the plague is reduced. However, the number of deaths in your village will increase. If you do not isolate your village, people will be able to try to save themselves and their families. However, this will likely carry the plague elsewhere, leading to the deaths of many more people.",
+    "subject": "your"
+},
+{   
+    "index": 6,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Euthanasia (Ghetto)",
+    "scenario": "It is 1942, you are a physician in a hospital of the Jewish Ghetto in Warsaw and are responsible for the infants’ and children’s ward. The Nazis, who are occupying Warsaw, begin to clear the hospital and deport all patients. You feel sure that all children in your unit will be deported and eventually killed because they cannot be used for hard labor. You consider giving the children a lethal dose of morphine before bedtime in order to save them from deportation. If you kill the children with an overdose of morphine, you will prevent their probable suffering. If you do not kill the children, you will leave them at the mercy of the Nazis. ",
+    "subject": "your"
+},
+{   
+    "index": 7,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Immunization (smallpox)",
+    "scenario": "You are a physician in England in 1796 when one of your colleagues discovers that an infection with the harmless cowpox might have made his patients immune to the dangerous smallpox. Smallpox are highly contagious and often deadly. If an infection with cowpox really leads to immunity against smallpox, many lives could be saved by infecting people with cowpox. You consider testing this by infecting a patient first with cowpox and then with smallpox. However, by doing so, you would endanger this person’s life. You cannot test the procedure on yourself because you have already survived smallpox and are immune. You search for volunteers, but the only offer is from your gardener who offers his eight–year–old son. If you infect the boy with both diseases, you will risk his life but will be able to test your immunization procedure, which might save many lives. If you do not infect the boy, you will not endanger him, but you cannot test the procedure, and people will continue to die of smallpox.",
+    "subject": "your"
+},
+{   
+    "index": 8,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "911",
+    "scenario": "You are passenger on a flight from New Jersey to San Francisco when four terrorists take over the plane and claim to have a bomb on board. Some passengers are able to phone friends or family and discover that two other planes have been hijacked in New York and crashed into the World Trade Center. You think that the terrorists on board also plan to crash this plane into a building. If you do not resist the hijackers, they might crash the plane into another building, which would kill all the passengers as well as many other people. If you resist the hijackers, they will probably start killing passengers or detonate their bomb. However, you could cause the plane to crash in an uninhabited area which would still kill all passengers but would prevent the death of additional people.",
+    "subject": "your"
+},
+{   
+    "index": 9,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Coma (mother)",
+    "scenario": "Since a riding accident several years ago, your mother is in a persistent vegetative state. Her brain is permanently damaged. She still breathes on her own and has reflexes. During the day, her eyes are open and moving, but she cannot consciously perceive anything. She has no higher brain functions left and there is no hope of improvement. However, she could continue living like this for a long time. You and your relatives are suffering immensely because of her condition. In your opinion, the situation robs her of all dignity. Now, after 7 years, you consider suffocating her with a towel. If you kill your mother by suffocation, you will release yourself and your relatives from suffering. If you do not kill her, your mother will continue living in this state, probably for many years.",
+    "subject": "your"
+},
+{   
+    "index": 10,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Organ donation law",
+    "scenario": "You are director in the French Agency for Biomedicine. In France, all people are organ donors unless they opt out. Still, many people die every year because they do not receive a donor organ in time. You are responsible for deciding whether a new system that uses a changed death criterion should be tested in nine hospitals. Until now, organs are only allowed to be harvested when the patient’s brain activity has completely stopped. However, by that time, organs often cannot be transplanted anymore and become useless. The new criterion would allow organs to be harvested at an earlier time. Specifically, organs could be taken if patients have cardiac arrest that persists after attempts at resuscitation. This procedure would result in a large increase of transplantable donor organs. However, in rare cases, patients have been known to survive after they met this criterion. These people would then die because of the organ removal. If you authorize the pilot phase of the new criterion, you will risk killing people by organ harvesting who might otherwise have survived. However, the new criterion would save many more lives by enabling a much larger number of organ transplants. If you veto the new criterion, many people will die every year because they will not get a donor organ.",
+    "subject": "your"
+},
+{   
+    "index": 11,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Still births",
+    "scenario": "It is 1944 and you and four other inmates are working as nurses in the women’s hospital ward of the Auschwitz–Birkenau concentration camp. One of your duties is to help pregnant inmates when they give birth. However, you know that the SS guards have the order to kill mother and baby if the baby is born alive. In the case of stillbirths, on the other hand, the mothers are usually not killed. Consequently, you consider killing the babies by injecting poison shortly before birth to at least save the mothers. If you kill the babies before birth, the mothers will most likely be saved. If you help deliver the babies alive, both, babies and mothers, will be killed by the SS guards.",
+    "subject": "your"
+},
+{   
+    "index": 12,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Tyrannicide",
+    "scenario": "You are an army officer in the Dominican Republic in 1961. For decades now, your country is governed by the dictator Rafael Trujillo who has had thousands of people killed because of their ethnicity or their political views. You are a member of a group that wants a new start for your country without a civil war. To achieve this goal, you consider it unavoidable to kill the dictator in order to disempower him, his family, and his followers. For this, you and six co–conspirators are asked to ambush and kill the dictator. If you kill the dictator, your country will have a chance for a new start. If you do not kill him, the regime will continue its killings.",
+    "subject": "your"
+},
+{   
+    "index": 13,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Real lifeboat",
+    "scenario": "It is 1841 and you are a crew member on a ship. After colliding with an iceberg, the ship sank. You, some other crew members, and passengers were able to save yourselves onto two lifeboats. The two boats took off in different directions to increase the chances of being found. The next day, it starts to rain. Your lifeboat is overcrowded with 41 people. You navigate while the others scoop out the water and oar. Nevertheless, the large waves could make your boat sink at any time. You think that approximately ten adults would have to leave the boat to substantially increase the chance that the other passengers will survive. However, the water is so cold, that they would freeze to death. If you do not throw anybody over board, the boat will most likely sink within the next few hours and all 41 people will die. If you instead throw ten people over board, the rest of the passengers will be able to keep rowing towards land and will have a good chance of being rescued.",
+    "subject": "your"
+},
+{   
+    "index": 14,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Septuplets",
+    "scenario": "You and your partner are a couple in the USA when you learn that you are pregnant with septuplets (7 babies). The risk that all or some of the children will be born with severe disabilities or not survive at all is extremely high. Therefore, the doctors recommend aborting some of the fetuses in order to increase the chances of survival for the others; their recommendation is to abort 3 fetuses. The remaining fetuses would have a much higher chance of being born healthy. If you abort three fetuses, you will increase the chance of survival and health for the remaining four fetuses. If you do not abort any of the fetuses, there is a high risk that all or most of them will die or have severe disabilities.",
+    "subject": "your"
+},
+{   
+    "index": 15,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Assisted suicide state",
+    "scenario": "You are a member of the Canadian Senate and have to vote on a new law. Canada’s health care expenses are increasing steadily, mainly because the ratio of old people increases. Recent studies indicate that the legalization of medically assisted suicide would strongly decrease medical expenses. The state considers legalizing medically assisted suicide for the patients who are terminally ill and whose life expectancy is 6 months or less. If they wish, these patients could then choose to be killed by a doctor with an overdose of tranquillizers. Experts estimate that the new law would save 139 million dollars. This money could be used for other medical treatments. If you allow medically assisted suicide, many more people will get better medical treatment improving their quality of life and life expectancy. However, you would legalize a form of killing. If you do not allow medically assisted suicide, the health care system will have to keep on saving money in every possible way.",
+    "subject": "your"
+},
+{   
+    "index": 16,
+    "type": "Factual–Killing–Utilitarian",
+    "name": "Atom bomb",
+    "scenario": "You are a physicist researching nuclear energy and have been living in the USA for some years. In 1939, there are rumors that the Nazi regime is building the first atomic bomb. You assume that Germany would not dare to use its bomb if it was known that the US had atomic bombs, too. Therefore, you consider asking the US president to command the construction of the atomic bomb in America and to promise to contribute to its development. If you initiate the construction of an American atomic bomb, you could prevent the Germans from using their bomb. At the same time, you would take part in the construction of the deadliest weapon of mass destruction in history. ",
+    "subject": "your"
+},
+{   
+    "index": 17,
+    "type": "Factual–Saving–Deontological",
+    "name": "Medicine costs",
+    "scenario": "You are the Belgian minister of health. A 7–year–old boy who suffers from a very rare immunological disease asks you for a refund for his medicine. Without taking this medicine regularly, the boy will die. Currently, the medicine is not covered by the health care system, and it is so expensive that the family, who has been buying the medicine for years, will not be able to raise enough money for much longer (approximately 200,000 euros per year). Thus, the boy will die, if you refuse the refund. If you refuse to pay for the medicine, the boy will probably die within the next few years. However, if you pay, this money will have to be saved elsewhere; thus, other treatments will not be able to be covered. Funding the boy will therefore likely lead to the death of several other people.",
+    "subject": "your"
+},
+{   
+    "index": 18,
+    "type": "Factual–Saving–Deontological",
+    "name": "RAF",
+    "scenario": "You are the German head of state in 1977 and the RAF, a far–left terroristic group has kidnapped the President of the Federation of the German Employers’ Association. In exchange for his life, the RAF demands the release of eleven imprisoned RAF–members. Two years ago, the RAF has successfully obtained the release of five RAF–members by another kidnapping. Four of the released members have since then committed further terrorist attacks where people were killed. If you consent to the RAF’s demands, eleven former terrorists will be released and will likely commit further terrorist attacks in which many people could get killed. If you refuse, the hostage will be killed.",
+    "subject": "your"
+},
+{   
+    "index": 19,
+    "type": "Factual–Saving–Deontological",
+    "name": "Mare nostrum (Note: depending on what the refugees’ future would be when not fleeing, one might come to a different conclusion what the utilitarian option is from the stated one)",
+    "scenario": "You are a member of the British Ministry of Foreign Affairs. Many refugees from Northern Africa try to cross the Mediterranean Sea because of war or lack of economic perspectives. The EU runs a rescue program, “Mare Nostrum”, that has already saved 150,000 refugees from drowning. Illegal human trafficking gangs abuse this program. For huge sums of money, they give non–seaworthy boats to refugees and point out that they will be rescued if they get into difficulties. However, this year 3,000 refugees have drowned or died of thirst because they were not rescued in time. Your government thinks about stopping the rescue program in order to end human trafficking and scare off refugees. At first, the number of people dying at sea would increase, but in the future, probably fewer people would try to cross the sea, leading to fewer deaths in the long run. If you continue the program, you could save lives now, but in the long run, thousands of refugees will continue to die at sea. If you stop the program, refugees and human trafficking will be discouraged, but refugees will be left to die at sea.",
+    "subject": "your"
+},
+{   
+    "index": 20,
+    "type": "Factual–Saving–Deontological",
+    "name": "Rwanda",
+    "scenario": "You are a project leader in a development aid team in Rwanda. All over the country, members of the ethnic group of Hutu attack members of the Tutsi group. The family of one of your Tutsi employees is hiding in your agency’s center.  Another employee arrives and tells you that he just witnessed his whole family and another of your employees being killed by an armed group simply for being Tutsis. Shortly afterwards, a crowd of armed people gathers at the center. The leader threatens to attack the building and kill everybody inside unless you hand over your employee who just arrived. If you protect your employee, the mob will probably attack the center and kill many people. If you hand over your employee, he will be killed but the other people under your care will be safe. ",
+    "subject": "your"
+},
+{   
+    "index": 21,
+    "type": "Factual–Saving–Deontological",
+    "name": "Sahara ransom",
+    "scenario": "You are the German head of state and 10 of your citizens are taken hostage in the Sahara Desert by a group of terrorists. You have to decide whether to pay a ransom of several million euros. Other measures to free the hostages have been tried but did not succeed; by now, it has been going on for half a year and one woman has died. Similar situations in the past have shown that terrorists use the money to buy weapons and kill even more people. Furthermore, future tourists will more likely become targets if you pay. If you pay the ransom, you can save the hostages. If you do not pay, the hostages will be killed, but you will prevent future terrorism being financed, which will probably save more lives.",
+    "subject": "your"
+},
+{   
+    "index": 22,
+    "type": "Factual–Saving–Deontological",
+    "name": "Aid for Syria",
+    "scenario": "There is a Civil War between the Syrian regime and rebels that has been going on for years. By now, the humanitarian situation is horrible – the people have neither sufficient food nor adequate medical care. You are an employee for the UN and are responsible for the payment of aid funds. Tens of millions of dollars have been approved to go to local Syrian organizations. However, all local organizations are controlled by the Syrian regime. The regime is strongly suspected to only give aid to their own territories and even to misappropriate money to finance the war. Therefore, many other organizations have stopped giving monetary aid to Syria so as not to support the brutal Syrian regime. Nevertheless, the payments could help many suffering people and save lives. If you hand out the payments, you will help many people but would also unintentionally support the Syrian regime. If you refuse the payments, millions of people will not receive aid anymore.",
+    "subject": "your"
+},
+{   
+    "index": 23,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Rescue torture",
+    "scenario": "You are the chief of police investigating the kidnapping of a banker’s son. You have arrested a suspect who picked up the ransom money. The suspect has already admitted kidnapping the boy but refuses to reveal the hide–out. The suspect has been under arrest for more than 2 days now and you are worried that the kidnapped boy may die of thirst soon. You consider using threats or physical violence to make the suspect reveal the hide–out. If you break the law by torturing the suspect, he will most likely reveal the hide–out. If you adhere to the law by not torturing the suspect, he might remain silent about the hideout for another few days, which could lead to the boy’s death.",
+    "subject": "your"
+},
+{   
+    "index": 24,
+    "type": "Factual–Other–Utilitarian",
+    "name": "War torture",
+    "scenario": "It is 1940 and you are the head of a British institution that interrogates German prisoners of war. Some of the inmates might have important war–related information that you could use to save thousands of lives. However, most prisoners probably have no relevant information. In the current war phase, there is a lot at stake for Great Britain. France is being heavily invaded by the Germans and the German air force has started to bomb British cities. Therefore, your superiors demand quick results – by any means. You think about systematically torturing all inmates to get war–related information. This would clearly break the Geneva Convention which requires Great Britain to protect all people who are no longer fighting, including prisoners of war. If you decide to systematically torture all inmates, you will probably save thousands of human lives. If you do not torture inmates, you might lose crucial life–saving information.",
+    "subject": "your"
+},
+{   
+    "index": 25,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Rugby cannibalism",
+    "scenario": "You are member of a rugby team flying from Montevideo to Santiago de Chile in 1972. The plane crashes, killing 15 of the 40 people on board. You are in an inaccessible region and have no means of communication. However, you do have a radio. You are now at an altitude of 13,000 feet/4,000 meters at –20°F/–30°C. After ten days, only 19 of you are still alive, you have no food left and you hear on the radio that the search for your plane has been given up. You and the others are contemplating whether to eat the remains of your dead team mates, violating their dignity and peace of the dead. If you and the rest of the survivors eat human bodies, you will survive longer and increase your chances of being rescued. If you and the others do not eat dead bodies, you will starve to death soon.",
+    "subject": "your"
+},
+{   
+    "index": 26,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Robin Hood",
+    "scenario": "You are an employee of a bank in Germany. You have many loyal customers who trust in you and your bank. Among them are some customers who are in debt and do not fulfill conditions for being granted a loan. Interviews with them are very stressful for you and for the costumers. Currently, there is one very severe case where a customer and his family would be ruined without a loan. You see an undetectable way to temporarily redirect some deposits and investments from other customers to his bank account which would improve his credit rating sufficiently. This way you could help him as well as other customers in difficulties. At the same time, you would abuse the trust of the wealthy customers and of your superiors and commit fraud. If you temporarily redirect a part of the wealthy customers’ money, you will be able to help indebted costumers but abuse trust. If you follow the rules, your indebted customers and their families will go bankrupt.",
+    "subject": "your"
+},
+{   
+    "index": 27,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Knee operations",
+    "scenario": "You are a physician in a hospital in a town in Germany. Your hospital needs to perform at least 50 knee surgeries per year in order to have them refunded by health insurance. Until this December, the hospital has only conducted 48 surgeries; thus, maybe none of the surgeries will be covered by insurance. The clinic has already been in debt the previous year and will have to file for bankruptcy if there will be another debt when the knee surgeries are not refunded. Without this hospital, the region will not have access to fast intensive emergency care. Sooner or later, having no fast access to intensive emergency care will lead to avoidable deaths in the region. The only way of sustaining the clinic would be by performing two knee surgeries that are medically not indicated. If you perform two unnecessary surgeries, you can save the hospital from bankruptcy and the region will continue to have fast emergency care, but you will perform surgery on two patients for whom other treatments would be more appropriate. If you do not perform the surgeries, the clinic will be closed leading to deaths sooner or later.",
+    "subject": "your"
+},
+{   
+    "index": 28,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Organ market",
+    "scenario": "You are living in Israel and, for the past four years, you have been dependent on dialysis because of kidney failure. No one in your family is a suitable organ donor. The official waiting list is so long that many people die because they never get a donor kidney. After a minor heart attack, you are pushed down further on the waiting list, making it virtually impossible that you will receive a kidney. You think about buying a kidney on the black market where people from poor countries sell their kidneys to wealthy people. The medical risks are low. The donors can live on with one kidney but are medically restricted in what they can do and their health will become more fragile. The black market for organs is well organized but illegal because it pressures poor people in distress to risk their health. If you do not buy a kidney, you will die in a few years. If you buy a kidney, both you and the donor will probably be able to live well for decades. At the same time, you are abusing the poverty of the donor.",
+    "subject": "your"
+},
+{   
+    "index": 29,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Tax fraud detection",
+    "scenario": "You are the state minister of finance of a German federal state. You have to decide whether or not to buy illegally gained data. You have been offered to buy data about tax evaders. The data were compiled by hackers who have illegally invaded the servers of several foreign banks, where some of your wealthy citizens transfer their money to evade taxes. The data are probably reliable and consists of up to 50,000 transactions. If you buy the data, you will use illegally obtained information and reward hackers for data theft but will be able to prosecute tax evaders, whose fines will amount to millions. If you do not buy the data, you will miss out on millions of euros of additional tax payments and fines.",
+    "subject": "your"
+},
+{   
+    "index": 30,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Ashley treatment",
+    "scenario": "You are a physician and specialist in medical ethics working in the USA when the parents of a 6–year–old girl consult you. Their daughter suffers from static encephalopathy; she is neither able to walk nor to sit. Developmentally, she will always be at the level of a 3–month–old baby. Her parents are still able to take care of her at home, but the girl is growing. To prevent their daughter from becoming too heavy, the parents want to stop her growth and inhibit her sexual development by removing her uterus and breast tissue and by giving her a high–dose estrogen therapy. The treatment is not medically necessary, and the girl is unable to decide for herself. The treatment would therefore violate the child’s right to physical integrity. If you do not allow the treatment, the parents will soon be unable to take care of the girl and she will not be able to stay in her family environment. If you allow the treatment, the girl will undergo unnecessary treatment and operations but will be able to stay with her parents. ",
+    "subject": "your"
+},
+{   
+    "index": 31,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Test tube sibling",
+    "scenario": "You are a judge at a British court of appeal and have to decide about a case of test–tube fertilization. A boy suffering from beta–thalassemia, a deadly blood disease, can only be saved by a stem cell or bone marrow donation. However, despite all efforts, no suitable donor could be found. The parents want to save their child by having another baby whose stem cells fit. With the help of test–tube fertilization, a genetically suitable embryo would be selected and then implanted into the uterus. If the pregnancy and, after birth, the transplantation of the stem cells from the umbilical cord are successful, the chances that the sick child recovers are above 90%. However, this would mean breeding a baby as a stem cell donor. If you allow the genetic selection, the sick child will probably be saved and recover completely. If you do not allow the genetic selection, the sick child will die (unless another donor can be found, which is very unlikely).",
+    "subject": "your"
+},
+{   
+    "index": 32,
+    "type": "Factual–Other–Utilitarian",
+    "name": "Lion hunt",
+    "scenario": "You are working at the nature conservation agency “International Union for Conservation of Nature in Tanzania”. You are responsible for the protection of endangered species, notably lions, whose population is steadily declining in the wild. Research has shown that the increase of agricultural areas is the main reason for this. To provide a long–term habitat for lions, you want to buy land as a conservation area. In spite of your immense efforts to raise money, you are unable to raise the necessary funds. You consider killing a few of the threatened lions and selling their furs for 60,000 dollars apiece, which would be enough money – much more than any other action you have tried or can think of. If you kill some of the lions, you will have enough money to buy land for the protection of the remaining lions. If you do not kill any lions, you will not have the funds to buy an adequate size of land. ",
+    "subject": "your"
+},
+{   
+    "index": 33,
+    "type": "Factual–Other–Deontological",
+    "name": "Bishop",
+    "scenario": "You are a catholic archbishop in the Netherlands when the German occupiers begin to deport Dutch Jews in 1942. You are aware that the deported people suffer a lot, even though you do not know any details. You are thinking about publicly censuring the deportations. However, by a silent agreement with the Germans, you could assure that at least Christians with Jewish heritage are being spared. If you speak up, you would risk the deportation of the Christians with Jewish heritage, including members of your own community. If you remain silent about the deportations, Dutch Jews will continue to be deported, but the Christians with Jewish heritage will remain free. If you publicly censure the deportations, you will risk the life of all Christians with Jewish heritage, but you will fulfill your moral duty to call attention to the wrongful deportations.",
+    "subject": "your"
+},
+{   
+    "index": 34,
+    "type": "Factual–Other–Deontological",
+    "name": "Trail of Tears",
+    "scenario": "You are one of the leaders of the Native American Cherokee in 1830. The US Congress has decided to relocate all southern Native American tribes to the west. So far, you have been opposing relocation because forced relocation violates your rights, which the US constitution guarantees to all US citizens and Native Americans. The Supreme Court has already decided in your favor, but you know that the white settlers and the US President will not accept your refusal to move. War with the US armed forces is inevitable if you do not move, which you have no chance to win. If you advocate for voluntary relocation, chances will be high that your tribe can move without bloodshed, but you will irrevocably give up your tribe’s traditional territory. If you further advocate against the relocation, there will be war with the US armed forces and many of your fellow tribe members will die.",
+    "subject": "your"
+},
+{   
+    "index": 35,
+    "type": "Factual–Other–Deontological",
+    "name": "Veterinarian",
+    "scenario": "You are a European veterinarian and do animal experiments on highly contagious germs. On a daily basis, you cause suffering to animals by infecting them with deadly diseases. You are aware that this work provides important insights that, in the long run, can save many other animals. Furthermore, you are a specialist and because of your expertise you can achieve more than other veterinarians. However, you have become a vet in order to heal animals and you are considering quitting your job. If you quit your job, fewer animals will die in the lab, but there will also be fewer findings about animal diseases, leading to many deaths. If you continue your job of infecting animals with diseases, you will keep causing suffering to animals, but your research will probably save the life of many other animals.",
+    "subject": "your"
+},
+{   
+    "index": 36,
+    "type": "Factual–Other–Deontological",
+    "name": "Hogesa",
+    "scenario": "You are a judge at an administrative court in Germany. A right–wing group wants to organize a demonstration against Islamist extremism. Freedom of speech and freedom of assembly are inalienable basic rights. However, at former demonstrations of this group, there have repeatedly been violent attacks against immigrants and the police. If you prohibit the demonstration, you will deny the group’s freedom of assembly and freedom of speech. If you allow the demonstration, there is a risk that people will be harmed.",
+    "subject": "your"
+},
+{   
+    "index": 37,
+    "type": "Factual–Other–Deontological",
+    "name": "Mass rape",
+    "scenario": "You are a judge in Germany in the early 1990s. At a fair, a group of eight drunk men raped a 17–year–old waitress. One of the men did not participate but called the police. When the police arrived, they found the girl injured and unconscious. It is clear which group was responsible, but the investigations were not able to determine who of the group is guilty; you know that at least one of them is innocent, but many others (probably all) committed rape. You have just finished interrogating them. The 8 men keep silent, the girl’s recollections are vague, and the evidence from the girl’s body is unusable. There seems to be no way to find out who is guilty and who is innocent. If you keep all men in investigation custody, the innocent man will be jailed wrongfully. If you drop the charges, several rapists will be released. ",
+    "subject": "your"
+},
+{   
+    "index": 38,
+    "type": "Factual–Other–Deontological",
+    "name": "Endowment",
+    "scenario": "After a long–term imprisonment, a convicted child kidnapper and murderer wants to organize a foundation for young victims of crime. You are the president of the agency who decides about the foundation. The founder would offer a seed capital of 25,000 euros. However, the foundation would be named after the offender and it is unclear whether he is acting out of remorse or simply to clear his name. The family of his victim opposes such a foundation and considers it immoral, derogatory, and an exploitation of the victim. If you oppose the foundation, the capital will be lost. If you approve the foundation, crime victims can be helped by the starting capital and additional fund raisings.",
+    "subject": "your"
+}]

@@ -1,0 +1,170 @@
+[
+    {
+        "index": 1,
+        "type": "d1acinc",
+        "name": "N/A",
+        "scenario": "You are the president of your country. A guerilla group operating in a conflict zone has abducted a journalist from your country and threatens to behead him if your government does not pay a ransom of one million dollars. The group will use the ransom money to buy weapons for their guerilla war, which will cause the deaths of many people. Congress has approved payment of the ransom, but you have the power to veto the payment. Is it acceptable in this case to veto the ransom payment?",
+        "subject": "your"
+    },
+    {
+        "index": 2,
+        "type": "d6ininc",
+        "name": "N/A",
+        "scenario": "You are a doctor in an area that suffers from an outbreak of a highly contagious disease. Preliminary tests have shown the success of a new vaccine that is not approved by the health department of your country, because of its severe side-effects. The side-effects of the vaccine will likely cause the death of dozens of people who are not infected, but the vaccine will save hundreds of lives by preventing spread of the virus. One of your colleagues plans to use the vaccine, but you could stop him by reporting his plans to the health department. Is it acceptable in this case to report your colleague to the health department?",
+        "subject": "your"
+    },
+    {
+        "index": 3,
+        "type": "d5ininc",
+        "name": "N/A",
+        "scenario": "You are the director of a hospital in a developing country. A foreign student who is volunteering in the country got infected with a rare virus. The virus is highly contagious and deadly to seniors and children. The student suffers from a chronic immune deficiency that will make her die from the virus if she is not returned to her home country for special treatment. However, taking her out of quarantine involves a considerable risk that the virus will spread. Is it acceptable in this case to take the student out of quarantine to return her to her home country for treatment?",
+        "subject": "your"
+    },
+    {
+        "index": 4,
+        "type": "d4incon",
+        "name": "N/A",
+        "scenario": "You are a doctor and are treating a seriously ill, suffering patient. Even the strongest drugs do not relieve him from his pain anymore. He feels terrible agony, but you know that he will get better again soon. For days, he has been waiting to see improvements. Since he no longer wants to endure his pain, he repeatedly asks you to end his life. Suddenly, he has a severe heart attack. You could give him a drug to save him from dying. Is it acceptable in this case to provide your patient with this drug?",
+        "subject": "your"
+    },
+    {
+        "index": 5,
+        "type": "d3ininc",
+        "name": "N/A",
+        "scenario": "You are a member of a special police department who is trained to obtain information in particularly difficult cases. You are dealing with a case involving a male adult who is accused of having abducted several children. You don't know where he is hiding the children, and he refuses to tell you where they are. The children will likely die from dehydration if they are not found within the next 24 hours. You have tried every legal interrogation technique, but none of them were successful. To get information on where the children are, your partner starts using illegal techniques that are deemed torture, and you consider stopping him by reporting him to your supervisor. Is it acceptable in this case to stop your partner from using illegal interrogation techniques?",
+        "subject": "your"
+    },
+    {
+        "index": 6,
+        "type": "d2ininc",
+        "name": "N/A",
+        "scenario": "You are a surgeon in a small hospital. One day, your hospital receives five badly hurt patients from a car accident. The patients all need organ transplants or they will die. You have no spare organs, but there is a patient who has been in a coma for several weeks and it seems unlikely that he will wake up again. One of your co-workers plans to terminate his life support and take his organs for the five accident victims, so that their lives will be saved. You could stop your co-worker by informing the director of the hospital. Is it acceptable in this case to stop your co-worker from terminating the patient's life support to take his organs?",
+        "subject": "your"
+    },
+    {
+        "index": 7,
+        "type": "d1ininc",
+        "name": "N/A",
+        "scenario": "You are the president of your country. A guerilla group operating in a conflict zone has abducted a journalist from your country and threatens to behead him if your government does not pay a ransom of one million dollars. The group will use the ransom money to buy weapons for their guerilla war, which will cause the deaths of many people. As the president, you have the power to approve payment of the ransom. Is it acceptable in this case to approve the ransom payment?",
+        "subject": "your"
+    },
+    {
+        "index": 8,
+        "name": "N/A",
+        "type": "d2acinc",
+        "scenario": "You are a surgeon in a small hospital. One day, your hospital receives five badly hurt patients from a car accident. The patients all need organ transplants or they will die. You have no spare organs, but there is a patient who has been in a coma for several weeks and it seems unlikely that he will wake up again. You could terminate his life support and take his organs for the five accident victims, so that their lives will be saved. Is it acceptable in this case to terminate the patient's life support to take his organs?",
+        "subject": "your"
+    },
+    {
+        "index": 9,
+        "name": "N/A",
+        "type": "d6accon",
+        "scenario": "You are a doctor in an area that suffers from an outbreak of a highly contagious disease. Preliminary tests have shown the success of a new vaccine that is not approved by the health department of your country, because of its severe side-effects. The side-effects of the vaccine will likely cause the death of dozens of people who are not infected, but the vaccine will save about the same number of lives by preventing spread of the virus. Is it acceptable in this case to use the vaccine?",
+        "subject": "your"
+    },
+    {
+        "index": 10,
+        "name": "N/A",
+        "type": "d5accon",
+        "scenario": "You are the director of a hospital in a developing country. A foreign student who is volunteering in the country got infected with a rare virus. The virus is highly contagious and can cause severe stomach cramps. The only medication that can effectively stop the virus from spreading has severe side-effects. Although the virus will not kill her, the student suffers from a chronic immune deficiency that will make her die from these side-effects. Is it acceptable in this case to give the student the medication?",
+        "subject": "your"
+    },
+    {
+        "index": 11,
+        "name": "N/A",
+        "type": "d4acinc",
+        "scenario": "You are a doctor and are treating a seriously ill, suffering patient. Even the strongest drugs do not relieve him from his pain anymore. He feels terrible agony and you know that his condition will never improve. For days, he has been waiting for his death. Since he no longer wants to endure his pain, he repeatedly asks you to end his life. You could give him a drug causing his death, which will release him from his pain. Is it acceptable in this case to provide your patient with this drug?",
+        "subject": "your"
+    },
+    {
+        "index": 12,
+        "name": "N/A",
+        "type": "d3incon",
+        "scenario": "You are a member of a special police department who is trained to obtain information in particularly difficult cases. You are dealing with a case involving a male adult who is accused of having stolen several paintings. You don't know where he is hiding the paintings, and he refuses to tell you where they are. The paintings will likely be shipped to a different country if they are not found within the next 24 hours. You have tried every legal interrogation technique, but none of them were successful. To get information on where the paintings are, your partner starts using illegal techniques that are deemed torture, and you consider stopping him by reporting him to your supervisor. Is it acceptable in this case to stop your partner from using illegal interrogation techniques?",
+        "subject": "your"
+    },
+    {
+        "index": 13,
+        "name": "N/A",
+        "type": "d2incon",
+        "scenario": "You are a surgeon in a small hospital. One day, your hospital receives five badly hurt patients from a car accident. These patients all need organ transplants or they will have serious health problems for the rest of their lives. You have no spare organs, but there is a patient who has been in a coma for several weeks and it seems unlikely that he will wake up again. One of your co-workers plans to terminate his life support and take his organs for the five accident victims, so that they won't suffer from health problems. You could stop your co-worker by informing the director of the hospital. Is it acceptable in this case to stop your co-worker from terminating the patient's life support to take his organs?",
+        "subject": "your"
+    },
+    {
+        "index": 14,
+        "name": "N/A",
+        "type": "d6incon",
+        "scenario": "You are a doctor in an area that suffers from an outbreak of a highly contagious disease. Preliminary tests have shown the success of a new vaccine that is not approved by the health department of your country, because of its severe side-effects. The side-effects of the vaccine will likely cause the death of dozens of people who are not infected, but the vaccine will save about the same number of lives by preventing spread of the virus. One of your colleagues plans to use the vaccine, but you could stop him by reporting his plans to the health department. Is it acceptable in this case to report your colleague to the health department?",
+        "subject": "your"
+    },
+    {
+        "index": 15,
+        "name": "N/A",
+        "type": "d1incon",
+        "scenario": "You are the president of your country. A guerilla group operating in a conflict zone has abducted a journalist from your country and threatens to behead him if your government does not pay a ransom of one million dollars. The group will use the ransom money to buy food for their families, who live in an area that has been plagued by several draughts. As the president, you have the power to approve payment of the ransom. Is it acceptable in this case to approve the ransom payment?",
+        "subject": "your"
+    },
+    {
+        "index": 16,
+        "name": "N/A",
+        "type": "d3accon",
+        "scenario": "You are a member of a special police department who is trained to obtain information in particularly difficult cases. You are dealing with a case involving a male adult who is accused of having stolen several paintings. You don't know where he is hiding the paintings, and he refuses to tell you where they are. The paintings will likely be shipped to a different country if they are not found within the next 24 hours. You have tried every legal interrogation technique, but none of them were successful. To get information on where the paintings are, you consider the use of illegal techniques that are deemed torture. Is it acceptable in this case to use illegal interrogation techniques?",
+        "subject": "your"
+    },
+    {
+        "index": 17,
+        "name": "N/A",
+        "type": "d5acinc",
+        "scenario": "You are the director of a hospital in a developing country. A foreign student who is volunteering in the country got infected with a rare virus. The virus is highly contagious and deadly to seniors and children. The only medication that can effectively stop the virus from spreading has severe side-effects. Although the virus will not kill her, the student suffers from a chronic immune deficiency that will make her die from these side-effects. Is it acceptable in this case to give the student the medication?",
+        "subject": "your"
+    },
+    {
+        "index": 18,
+        "name": "N/A",
+        "type": "d4accon",
+        "scenario": "You are a doctor and are treating a seriously ill, suffering patient. Even the strongest drugs do not relieve him from his pain anymore. He feels terrible agony, but you know that he will get better again soon. For days, he has been waiting to see improvements. Since he no longer wants to endure his pain, he repeatedly asks you to end his life. You could give him a drug causing his death, which will release him from his pain. Is it acceptable in this case to provide your patient with this drug?",
+        "subject": "your"
+    },
+    {
+        "index": 19,
+        "name": "N/A",
+        "type": "d2accon",
+        "scenario": "You are a surgeon in a small hospital. One day, your hospital receives five badly hurt patients from a car accident. These patients all need organ transplants or they will have serious health problems for the rest of their lives. You have no spare organs, but there is a patient who has been in a coma for several weeks and it seems unlikely that he will wake up again. You could terminate his life support and take his organs for the five accident victims, so that they won't suffer from health problems. Is it acceptable in this case to terminate the patient's life support to take his organs?",
+        "subject": "your"
+    },
+    {
+        "index": 20,
+        "name": "N/A",
+        "type": "d6acinc",
+        "scenario": "You are a doctor in an area that suffers from an outbreak of a highly contagious disease. Preliminary tests have shown the success of a new vaccine that is not approved by the health department of your country, because of its severe side-effects. The side-effects of the vaccine will likely cause the death of dozens of people who are not infected, but the vaccine will save hundreds of lives by preventing spread of the virus. Is it acceptable in this case to use the vaccine?",
+        "subject": "your"
+    },
+    {
+        "index": 21,
+        "name": "N/A",
+        "type": "d3acinc",
+        "scenario": "You are a member of a special police department who is trained to obtain information in particularly difficult cases. You are dealing with a case involving a male adult who is accused of having abducted several children. You don't know where he is hiding the children, and he refuses to tell you where they are. The children will likely die from dehydration if they are not found within the next 24 hours. You have tried every legal interrogation technique, but none of them were successful. To get information on where the children are, you consider the use of illegal techniques that are deemed torture. Is it acceptable in this case to use illegal interrogation techniques?",
+        "subject": "your"
+    },
+    {
+        "index": 22,
+        "name": "N/A",
+        "type": "d4ininc",
+        "scenario": "You are a doctor and are treating a seriously ill, suffering patient. Even the strongest drugs do not relieve him from his pain anymore. He feels terrible agony and you know that his condition will never improve. For days, he has been waiting for his death. Since he no longer wants to endure his pain, he repeatedly asks you to end his life. Suddenly, he has a severe heart attack. You could give him a drug to save him from dying. Is it acceptable in this case to provide your patient with this drug?",
+        "subject": "your"
+    },
+    {
+        "index": 23,
+        "name": "N/A",
+        "type": "d5incon",
+        "scenario": "You are the director of a hospital in a developing country. A foreign student who is volunteering in the country got infected with a rare virus. The virus is highly contagious and can cause severe stomach cramps. The student suffers from a chronic immune deficiency that will make her die from the virus if she is not returned to her home country for special treatment. However, taking her out of quarantine involves a considerable risk that the virus will spread. Is it acceptable in this case to take the student out of quarantine to return her to her home country for treatment?",
+        "subject": "your"
+    },
+    {
+        "index": 24,
+        "name": "N/A",
+        "type": "d1accon",
+        "scenario": "You are the president of your country. A guerilla group operating in a conflict zone has abducted a journalist from your country and threatens to behead him if your government does not pay a ransom of one million dollars. The group will use the ransom money to buy food for their families, who live in an area that has been plagued by several draughts. Congress has approved payment of the ransom, but you have the power to veto the payment. Is it acceptable in this case to veto the ransom payment?",
+        "subject": "your"
+    }
+]

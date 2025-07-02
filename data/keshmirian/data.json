@@ -1,0 +1,98 @@
+[
+{   
+    "index": 1, 
+    "type": "action",
+    "scenario": "Emilia is negotiating with a powerful and determined terrorist who is about to set off a bomb in a crowded area. Her advantage is that she has his innocent teenage son in her custody. There is only one thing that she can do to stop him from detonating his bomb, which will kill thousands of people if detonated. To stop him, she must contact him over the satellite hook-up that she has established and, in front of the camera, she breaks one of his son's arms and then threatens to break the other one if he does not give himself up. Emilia accepts to do this action.",
+    "subject": "Emilia’s"
+},
+{
+    "index": 2,    
+    "type": "action",
+    "scenario": "Azzo is the captain of a military submarine travelling underneath a large iceberg. An on-board explosion has caused him to lose a large part of the oxygen supply and has injured one of his crew who is quickly losing blood. The injured crew member is going to die from his wounds no matter what happens. The remaining oxygen supply is not sufficient for the entire crew to make it to the surface. The only way to save the other crew members is to shoot dead the injured crew member so that there will be just enough oxygen for the rest of the crew to survive. Azzo decides to kill the fatally injured crew member.",
+    "subject": "Azzo’s"
+},
+{ 
+    "index": 3,   
+    "type": "action",
+    "scenario": "Ann is the late-nightwatch nurse in a hospital. Due to an accident in the building next door, there are deadly fumes rising up through the hospital’s ventilation system. In a certain room of the hospital are three patients. In another room, there is a single patient. If Anna does nothing the fumes will rise up into the room containing the three patients and cause their deaths. The only way to avoid the deaths of these patients is to hit a certain switch, which will cause the fumes to bypass the room containing the three patients. As a result of doing this, the fumes will enter the room containing the single patient, causing his death. Anna decides to hit the switch to kill this patient.",
+    "subject": "Anna’s"
+},
+{ 
+    "index": 4,   
+    "type": "action",
+    "scenario": "A runaway trolley is heading down the tracks toward five workmen who will be killed if the trolley proceeds on its present course. Friedrich is on a footbridge over the tracks, in between the approaching trolley and the five workmen. Next to him on this footbridge is a stranger who happens to be very large. The only way to save the lives of the five workmen is to push this stranger off the bridge and onto the tracks below where his large body will stop the trolley. The stranger will die if Friedrich does this, but the five workmen will be saved. Friedrich pushes the large stranger. The stranger dies, but the trolley stops and the five workmen do not die.",
+    "subject": "Friedrich’s"
+},
+{ 
+    "index": 5,   
+    "type": "action",
+    "scenario": "Alex is the leader of a small group of soldiers. He is on his way back from a completed mission deep in enemy territory when one of his men has stepped in a trap that has been set by the enemy and is badly injured. The trap is connected to a radio device that by now has alerted the enemy to your presence. They will soon be on their way. If the enemy finds his injured man, they will torture him and kill him. He begs Alex not to leave him behind, but if he tries to take the injured man, his entire group will be captured. The only way to prevent this injured soldier from being tortured is to shoot him. Alex shoots the soldier, who dies.",
+    "subject": "Alex’s"
+},
+{ 
+    "index": 6,   
+    "type": "action",
+    "scenario": "Lena is a police officer, and she recently caught a criminal she has been hunting for some time. The criminal is allegedly responsible for rigging a series of explosive devices: some that have already gone off and some that have yet to detonate. He places explosives outside city cafes and sets them to go off at a time when people are drinking coffee on the patios. In this manner, he has injured many people and might injure many more. Now that the criminal is in custody, Lena wants to know where the unexploded bombs are so she can defuse them. He refuses to talk, so Lena decides to use “aggressive interrogation techniques” like holding his head under water and beating him. She decides to use “aggressive interrogation techniques”. She knows she will be able to find and defuse the unexploded bombs.",
+    "subject": "Lena’s"
+},
+{ 
+    "index": 7,   
+    "type": "action",
+    "scenario": "Mark is an expert motorcyclist participating in a Bike Week. As he is driving down the road in front of a large group of ten bikers, he suddenly notices that a biker upfront is losing control over his machine. Mark speeds up to pull alongside the biker, who is going to crash any moment. If the biker crashes on the road, this would result in a large pile-up and the group of ten bikers behind him will die. If Mark forces this biker off the road, the biker will crash into the trees. This will prevent the pile-up, but at his current speed, the biker will die in the crash. Mark decides to prevent the large pile-up by forcing this biker off the road and kills him.",
+    "subject": "Mark’s"
+},
+{ 
+    "index": 8,   
+    "type": "action",
+    "scenario": "Eric is a miner. The only way out of the mine is to ride up with a simple cable elevator with small cubicles. It is the end of his turn and everybody is riding up to the surface in the cubicles. While he is in the queue, he sees that the cable supporting all the cubicles is about to snap. 10 miners are riding the cubicles at this time. If he pushes an emergency switch the last cubicle will be detached from the cable. This will reduce enough weight to maintain the cubicles of the other 10 miners. This will kill the miner in the detached cubicle, but it will save the other ten. Eric decides to reduce the weight by pushing the emergency switch. This detaches the last cubicle and the one miner in that cubicle dies, the other ten miners can reach the exit.",
+    "subject": "Eric’s"
+},
+{ 
+    "index": 9,   
+    "type": "omission",
+    "scenario": "Lucia is terminally ill and dying from cancer. Her doctor knows that she has just started using heroin, cocaine and other illegal drugs, as a way of distracting herself of her illness, but no one else knows. Lucia plans to consume many drugs over the next two months to enjoy the last moments of her life. Her doctor knows that the drugs are bad for Lucia’s health but using drugs will not shorten or extend her life at all. He knows that she will die for sure in two months. The doctor decides not to tell Lucia to stop using drugs even though it is illegal and bad for her health. Lucia enjoys consuming illegal drugs over two months and dies afterwards.",
+    "subject": "the doctor’s"
+},
+{ 
+    "index": 10,   
+    "type": "omission",
+    "scenario": "Nina is a good friend of Martin, who is married to Linda. One day Nina discovers that Linda is having a love affair with another man for one year. It is clear that Linda does not want to leave Martin or tell him the truth, but wishes the affair to continue secretly. Nina knows that for Martin it is important that Linda and him are faithful to each other and do not sleep with anyone else. Nina also knows that John would leave Linda if he discovers that she has been lying to him. Nina decides not to tell Martin that Linda has an affair. Martin and Linda stay together, and Linda continues to have a secret affair.",
+    "subject": "Nina’s"
+},
+{ 
+    "index": 11,   
+    "type": "omission",
+    "scenario": "Dr Beckert is a German doctor. He is working for a medical charity in Congo and gets infected with Ebola. The virus is spreading in the body fast and he will die for sure unless he is returned to Germany for treatment. Bringing him back would save him, but involves a high risk that the virus infects between one to four people: the nurse, driver and two doctors who will need to attend to him. The risk that more than one person is infected is 50%. There are no alternative options and it would be impossible to mitigate the risks of travelling back. Johann is the head of the medical charity who employs Dr Beckert. He has to decide whether to repatriate Dr Beckert and risk the life of the four people needed to attend to him during the trip from Congo to Germany. The standard process would be to send only the nurse, driver and two doctors voluntarily, but not precisely tell them about the risks involved. Johann, the officer in charge of this case, decides not to return Dr Beckert to Germany, due to the risks involved. As a result, Dr Beckert cannot receive life-saving treatment in Germany and dies in Congo.",
+    "subject": "Johann’s"
+},
+{ 
+    "index": 12,   
+    "type": "omission",
+    "scenario": "Simon is an engineer leading a project to build a water supply for a poor city in a developing country. One day, they discover the remains of an unknown ancient culture when drilling for water. Simon has to decide whether to inform the authorities, which would lead to archaeological excavations and greatly enrich the cultural world heritage and knowledge. But it would also put an end to the water supply project, leaving the 1000 inhabitants of the city in poverty. Simon decides to keep silent about the discovery. As a result, the cultural heritage is lost but the wellbeing of the poor inhabitants is greatly increased.",
+    "subject": "Simon’s"
+},
+{ 
+    "index": 13,   
+    "type": "omission",
+    "scenario": "Amelie overhears her colleague at work explaining on the phone that he has managed to hack a private pension saving. He has stolen the funds saved by 10 elderly people who have reached their pension age, but instead of keeping the money for himself, he donated it to a poor orphanage that can now afford to feed, clothe, and care for 100 children until they reach adulthood. The colleague also explains that this is a one-off and that he will not do this again. Amelie knows that this type of private pension savings is not insured. If she goes to the authorities to denounce her colleague, the money will be returned to the pension scheme but the 100 children will not be fed or dressed properly. Amelie decides not to denounce the man to the police which means that the money from the private pension scheme of the 10 elderly people is gone forever but 100 children will be fed and dressed properly until they reach adulthood.",
+    "subject": "Amelie’s"
+},
+{ 
+    "index": 14,   
+    "type": "omission",
+    "scenario": "Otto is a politician in a country of 3 million people. He has to decide whether to increase the tax on tobacco by 20% or keep the current tax policy. Medical experts can reliably predict that increasing the tax would prevent 10,000 deaths every year due to lung cancer. However, from a purely economic point of view, the early deaths of 10,000 smokers have economic benefits: even with the new tax income, the government does not have to pay for pensions for 10,000 smokers, instead, it can invest in infrastructure and building schools so 1 million of people would benefit from early deaths of 10,000 smokers. Otto realises that leaving the tax as it means that smoking will just continue as it is and government money can be used in infrastructure and building schools. Otto decides to keep the current tax policy on tobacco, which means that 10,000 smokers will continue to smoke and die earlier because of lung cancer but this keeps funding available to build schools and infrastructure for 1 million inhabitants.",
+    "subject": "Otto’s"
+},
+{ 
+    "index": 15,   
+    "type": "omission",
+    "scenario": "Joachim and Ingrid are a couple hosting a farewell party before emigrating to Australia the next day. At the farewell party, Ingrid meets Paul and is very much attracted to him. She asks Paul if he wants to sleep with her. Paul knows that Ingrid is in a relationship with Joachim and promises him to never sleep with anyone but him. Paul, too, is in a relationship and has promised his partner to not have sex with anyone but her. Both Ingrid and Paul know that, if they secretly left the party and had sex together, nobody would ever find out and they would have a very enjoyable night together. Paul does not decline to sleep with Ingrid. Both of them thus enjoy great pleasure but violate their promises. ",
+    "subject": "Paul's"
+},
+{ 
+    "index": 16,   
+    "type": "omission",
+    "scenario": "A German investigation journalist has been violently murdered. Anna is in charge of the investigation and there is mounting evidence that the murder was ordered by a foreign country in Africa, with which is a long-time trade partner for Germany and with which the German state is about to conclude a large sale deal. The new sale deal would create 10,000 well-paid jobs in Germany over the next 2 years, and take 10,000 people out of unemployment. Anna decides not to process the evidence that foreign power is involved. The case remains unresolved, and no one else is accused of it. The trade deal with the foreign country is not compromised by the results of the investigation, and wealth and 10,000 jobs are created.",
+    "subject": "Anna’s"
+}
+]
