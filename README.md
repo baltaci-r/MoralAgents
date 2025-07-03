@@ -40,25 +40,9 @@ This repository contains the code to replicate the paper, "Many LLMs are More Ut
    - `<dataset>`: The dataset to use (e.g., `greene`, `korner`, `keshmirian`, `cni`,  `oxford_utilitarianism_scale`)
 
    **Examples:**
-   - Run Qwen3:32b on the Greene dataset with group size 1:
+   - Run Qwen3:32b on the Greene dataset with group size 3:
      ```bash
-     bash run.sh qwen3:32b 1 greene
-     ```
-   - Run Qwen3:32b on the Korner dataset with group size 1:
-     ```bash
-     bash run.sh qwen3:32b 1 korner
-     ```
-   - Run Qwen3:32b on the Keshmirian dataset with group size 1:
-     ```bash
-     bash run.sh qwen3:32b 1 keshmirian
-     ```
-   - Run Qwen3:32b on the CNI dataset with group size 1:
-     ```bash
-     bash run.sh qwen3:32b 1 cni
-     ```
-   - Run Qwen3:32b on the Oxford Utilitarianism Scale dataset with group size 1:
-     ```bash
-     bash run.sh qwen3:32b 1 oxford_utilitarianism_scale
+     bash run.sh qwen3:32b 3 greene
      ```
 2. Compile Results:
    - Open and run `src/compile.ipynb` to aggregate and compile runs
